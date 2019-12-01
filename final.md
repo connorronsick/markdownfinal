@@ -19,11 +19,13 @@ Top 3 Foods:
 * Cereal
 * Chicken Fettucine
 
+My favorite code to code in python:
+>print('Hello World')
+
 My favorite picture:
+
 ![Money](https://i.imgur.com/4AiXzf8.jpg)
 
-And here is my favorite code to code in python:
->print('Hello World')
 
 Also make sure to check out my sponsor websites as well!
 [Monster](https://www.monsterenergy.com), [Xbox](www.xbox.com), [Tesla](www.tesla.com)
