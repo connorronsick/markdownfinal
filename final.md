@@ -5,9 +5,9 @@
 Welcome to my About Me page! Here's a little bit about me.
 
 Top 3 Best Investments:
-*Tesla
-*Bitcoin
-*Sprint
+* Tesla
+* Bitcoin
+* Sprint
 
 Top 3 Movies:
 1. Step Brothers
