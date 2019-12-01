@@ -1,3 +1,3 @@
 # markdownfinal
 Final Project Connor Ronsick
-[About Me](markdownfinal/final.md)
+[About Me](/master/final.md)
