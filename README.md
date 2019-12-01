@@ -14,4 +14,4 @@ Also make sure to check out my sponsor websites as well!
 ### Social Media Folllowers: 48 Million
 
 ![tesla_truck](/truck.jpg)
-![money](https://imgur.com/gallery/4AiXzf8)
+![money](i.imgur.com/4AiXzf8.jpg)
