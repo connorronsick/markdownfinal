@@ -27,5 +27,5 @@ My favorite picture:
 ![Money](https://i.imgur.com/4AiXzf8.jpg)
 
 
-Also make sure to check out my sponsor websites as well!
+Also make sure to check out my **sponsor websites** as well!
 [Monster](https://www.monsterenergy.com), [Xbox](www.xbox.com), [Tesla](www.tesla.com)
