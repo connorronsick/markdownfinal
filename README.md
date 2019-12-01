@@ -13,5 +13,4 @@ Also make sure to check out my sponsor websites as well!
 ### Cars Purchased This Year: 13
 ### Social Media Folllowers: 48 Million
 
-![tesla_truck](/truck.jpg)
-![money](i.imgur.com/4AiXzf8.jpg)
+![tesla_truck](/truck.jpg)![money](https://i.imgur.com/4AiXzf8.jpg)
