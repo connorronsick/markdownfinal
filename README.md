@@ -7,6 +7,6 @@ While you're browsing remeber to check out my **About Me** page!
 Also make sure to check out my sponsor websites as well!
 [Monster](https://www.monsterenergy.com), [Xbox](www.xbox.com), [Tesla](www.tesla.com)
 
-## This Year's Earnings:
-
-# $23,267,538
+## My Earnings This Year: $23,267,538
+## Cars Bought This Year: 13
+## Instagram Folllowers: 48 Million
